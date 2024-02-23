@@ -4,5 +4,4 @@ pycache/
 .env/
 .venv/
 *.log/
-pycache/
-.test/
+__pycache__/
